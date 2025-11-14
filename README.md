@@ -23,8 +23,8 @@ Translate entire PDF documents into any of 12+ supported languages using **mBART
 
 Currently supports:
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <ul style="flex: 1;">
+<div style="display: flex;">
+  <ul style="margin-right: 40px;">
     <li>English</li>
     <li>French</li>
     <li>Spanish</li>
@@ -32,7 +32,7 @@ Currently supports:
     <li>Portuguese</li>
     <li>Italian</li>
   </ul>
-  <ul style="flex: 1;">
+  <ul>
     <li>Chinese</li>
     <li>Japanese</li>
     <li>Arabic</li>
@@ -41,6 +41,7 @@ Currently supports:
     <li>Hindi</li>
   </ul>
 </div>
+
 
 
 ### 🧠 4. Efficient RAG Pipeline

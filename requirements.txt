@@ -1,0 +1,9 @@
+transformers
+sentence-transformers
+langchain
+langchain-community
+chromadb
+pypdf
+gradio
+accelerate
+sentencepiece

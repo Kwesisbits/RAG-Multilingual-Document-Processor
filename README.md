@@ -8,6 +8,7 @@ title: RAG Multilingual Document Processor
 sdk: gradio
 sdk_version: 4.0.0
 app_file: app.py
+
 ---
 
 ## Features

@@ -23,18 +23,25 @@ Translate entire PDF documents into any of 12+ supported languages using **mBART
 
 Currently supports:
 
-* English
-* French
-* Spanish
-* German
-* Portuguese
-* Italian
-* Chinese
-* Japanese
-* Arabic
-* Dutch
-* Swahili
-* Hindi
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <ul style="flex: 1;">
+    <li>English</li>
+    <li>French</li>
+    <li>Spanish</li>
+    <li>German</li>
+    <li>Portuguese</li>
+    <li>Italian</li>
+  </ul>
+  <ul style="flex: 1;">
+    <li>Chinese</li>
+    <li>Japanese</li>
+    <li>Arabic</li>
+    <li>Dutch</li>
+    <li>Swahili</li>
+    <li>Hindi</li>
+  </ul>
+</div>
+
 
 ### 🧠 4. Efficient RAG Pipeline
 
@@ -176,6 +183,7 @@ This project implements a multilingual RAG system for document Q&A and translati
 
 # Possible improvements:
 * Optimize memory and inference speed for large documents
-*Support batch translation and multi-file uploads
-*Add user authentication and document management features
+* Support batch translation and multi-file uploads
+* Add user authentication and document management features
+
 

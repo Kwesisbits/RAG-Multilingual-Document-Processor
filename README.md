@@ -55,7 +55,7 @@ Built with **LangChain**, the pipeline includes:
 The application is intentionally kept simple—**only two files**—but the internal logic is highly modular.
 
 ---
-### Application Interface
+### 📸 Application Interface
 ![App Interface Screenshot](App_Interface.png)
 
 ## 🔗 Link to app: 
@@ -116,7 +116,7 @@ Gradio displays the final answer or translated document output.
 
 ---
 
-## 🧪 Running the App Locally
+## 🧑🏽‍💻 Running the App Locally
 
 ### 1. Install dependencies
 

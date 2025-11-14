@@ -24,7 +24,6 @@ Translate entire PDF documents into any of 12+ supported languages using **mBART
 Currently supports:
 
 | English    | Chinese    |
-|------------|------------|
 | French     | Japanese   |
 | Spanish    | Arabic     |
 | German     | Dutch      |
@@ -58,6 +57,8 @@ The application is intentionally kept simple—**only two files**—but the inte
 ---
 ### Application Interface
 ![App Interface Screenshot](App_Interface.png)
+
+## 🔗 Link to app: "https://huggingface.co/spaces/KwesiAI/rag-multilingual-processor"
 
 ## 🔧 Technology Stack
 

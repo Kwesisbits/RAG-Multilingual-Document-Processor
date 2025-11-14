@@ -2,12 +2,14 @@
 # 🤖 RAG Multilingual Document Processor
 
 An AI-powered document Q&A and translation system supporting 12+ languages.
+
 ---
 title: RAG Multilingual Document Processor
 sdk: gradio
 sdk_version: 4.0.0
 app_file: app.py
 ---
+
 ## Features
 
 - **Context-Aware Q&A**: Ask questions about your documents

@@ -175,7 +175,7 @@ All dependencies are included in **requirements.txt**, including:
 
 This project implements a multilingual RAG system for document Q&A and translation. It demonstrates the integration of retrieval pipelines, large language models, and a lightweight UI for interactive document processing.
 
-# Possible improvements:
+## Possible improvements:
 * Optimize memory and inference speed for large documents
 * Support batch translation and multi-file uploads
 * Add user authentication and document management features

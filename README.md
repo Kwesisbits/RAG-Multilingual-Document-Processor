@@ -23,24 +23,13 @@ Translate entire PDF documents into any of 12+ supported languages using **mBART
 
 Currently supports:
 
-<div style="display: flex;">
-  <ul style="margin-right: 40px;">
-    <li>English</li>
-    <li>French</li>
-    <li>Spanish</li>
-    <li>German</li>
-    <li>Portuguese</li>
-    <li>Italian</li>
-  </ul>
-  <ul>
-    <li>Chinese</li>
-    <li>Japanese</li>
-    <li>Arabic</li>
-    <li>Dutch</li>
-    <li>Swahili</li>
-    <li>Hindi</li>
-  </ul>
-</div>
+| English    | Chinese    |
+|------------|------------|
+| French     | Japanese   |
+| Spanish    | Arabic     |
+| German     | Dutch      |
+| Portuguese | Swahili    |
+| Italian    | Hindi      |
 
 
 
@@ -67,6 +56,7 @@ Built with **LangChain**, the pipeline includes:
 The application is intentionally kept simple—**only two files**—but the internal logic is highly modular.
 
 ---
+### Application Interface
 ![App Interface Screenshot](App_Interface.png)
 
 ## 🔧 Technology Stack

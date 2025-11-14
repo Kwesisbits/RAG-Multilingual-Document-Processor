@@ -67,6 +67,7 @@ Built with **LangChain**, the pipeline includes:
 The application is intentionally kept simple—**only two files**—but the internal logic is highly modular.
 
 ---
+![App Interface Screenshot](App_interface.png)
 
 ## 🔧 Technology Stack
 
